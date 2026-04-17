@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const PROXY = 'https://world.openfoodfacts.org'
+const PROXY = '/api/off'
 
 const apiClient = axios.create({
     baseURL: PROXY
