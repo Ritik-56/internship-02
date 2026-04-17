@@ -29,6 +29,19 @@ Users can browse products, load more items, and view category-wise product listi
 
 ---
 
+## ⏱️ Development Time
+
+Total time taken to complete this project: **Approximately 3 days (6–9 hours total)**.
+
+This includes:
+
+- Setting up the project using React + Vite  
+- Building reusable UI components  
+- Integrating Open Food Facts API using Axios  
+- Implementing category-based product loading  
+- Adding pagination and error handling  
+- Testing and debugging the application  
+
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -43,18 +56,6 @@ Project will run on:
 http://localhost:5173
 
 
-## 🌍 Live Deployment
-
-🚀 The application is live and accessible online:
-
-🔗 **Netlify Link:**  
-https://intern-02.netlify.app/
-
----
-
-## 📦 Deployment Platform
-
-This project is deployed using **Netlify** for fast and reliable hosting.
 
 ## 📡 API Used
 
